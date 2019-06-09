@@ -16,3 +16,9 @@ E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\DTO\obj\Debu
 E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
 E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\DTO\obj\Debug\DTO.dll
 E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\DTO\obj\Debug\DTO.pdb
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\DTO\bin\Debug\DTO.dll
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\DTO\bin\Debug\DTO.pdb
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\DTO\obj\Debug\DTO.dll
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\DTO\obj\Debug\DTO.pdb

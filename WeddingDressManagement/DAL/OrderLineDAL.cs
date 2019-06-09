@@ -45,7 +45,7 @@ namespace DAL
             SqlCommand cmd = new SqlCommand(SQL, con);
             SqlDataReader rd = cmd.ExecuteReader();
             rd.Read();
-            dressID = Convert.ToInt32(rd.["DressID"].ToString());
+            dressID = Convert.ToInt32(rd["DressID"].ToString());
             con.Close();
             return dressID;
         }
