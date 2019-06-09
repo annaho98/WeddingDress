@@ -1,0 +1,61 @@
+C:\Users\admimn\Desktop\WeddingDressManagement\GUI\bin\Debug\GUI.exe.config
+C:\Users\admimn\Desktop\WeddingDressManagement\GUI\bin\Debug\GUI.exe
+C:\Users\admimn\Desktop\WeddingDressManagement\GUI\bin\Debug\GUI.pdb
+C:\Users\admimn\Desktop\WeddingDressManagement\GUI\bin\Debug\BUS.dll
+C:\Users\admimn\Desktop\WeddingDressManagement\GUI\bin\Debug\DAL.dll
+C:\Users\admimn\Desktop\WeddingDressManagement\GUI\bin\Debug\DTO.dll
+C:\Users\admimn\Desktop\WeddingDressManagement\GUI\bin\Debug\BUS.pdb
+C:\Users\admimn\Desktop\WeddingDressManagement\GUI\bin\Debug\DAL.pdb
+C:\Users\admimn\Desktop\WeddingDressManagement\GUI\bin\Debug\DTO.pdb
+C:\Users\admimn\Desktop\WeddingDressManagement\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\admimn\Desktop\WeddingDressManagement\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\admimn\Desktop\WeddingDressManagement\GUI\obj\Debug\GUI.SignIn.resources
+C:\Users\admimn\Desktop\WeddingDressManagement\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\admimn\Desktop\WeddingDressManagement\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\admimn\Desktop\WeddingDressManagement\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\admimn\Desktop\WeddingDressManagement\GUI\obj\Debug\GUI.exe
+C:\Users\admimn\Desktop\WeddingDressManagement\GUI\obj\Debug\GUI.pdb
+D:\STUDY\PROJECT\WeddingDressManagement\GUI\bin\Debug\GUI.exe.config
+D:\STUDY\PROJECT\WeddingDressManagement\GUI\bin\Debug\GUI.exe
+D:\STUDY\PROJECT\WeddingDressManagement\GUI\bin\Debug\GUI.pdb
+D:\STUDY\PROJECT\WeddingDressManagement\GUI\bin\Debug\BUS.dll
+D:\STUDY\PROJECT\WeddingDressManagement\GUI\bin\Debug\DAL.dll
+D:\STUDY\PROJECT\WeddingDressManagement\GUI\bin\Debug\DTO.dll
+D:\STUDY\PROJECT\WeddingDressManagement\GUI\bin\Debug\BUS.pdb
+D:\STUDY\PROJECT\WeddingDressManagement\GUI\bin\Debug\DAL.pdb
+D:\STUDY\PROJECT\WeddingDressManagement\GUI\bin\Debug\DTO.pdb
+D:\STUDY\PROJECT\WeddingDressManagement\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\STUDY\PROJECT\WeddingDressManagement\GUI\obj\Debug\GUI.Home.resources
+D:\STUDY\PROJECT\WeddingDressManagement\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\STUDY\PROJECT\WeddingDressManagement\GUI\obj\Debug\GUI.SignIn.resources
+D:\STUDY\PROJECT\WeddingDressManagement\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\STUDY\PROJECT\WeddingDressManagement\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\STUDY\PROJECT\WeddingDressManagement\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\STUDY\PROJECT\WeddingDressManagement\GUI\obj\Debug\GUI.exe
+D:\STUDY\PROJECT\WeddingDressManagement\GUI\obj\Debug\GUI.pdb
+D:\STUDY\PROJECT\WeddingDressManagement\GUI\obj\Debug\GUI.Main.resources
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\bin\Debug\GUI.exe.config
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\bin\Debug\GUI.exe
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\bin\Debug\GUI.pdb
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\bin\Debug\BUS.dll
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\bin\Debug\DAL.dll
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\bin\Debug\DTO.dll
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\bin\Debug\BUS.pdb
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\bin\Debug\DAL.pdb
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\bin\Debug\DTO.pdb
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\obj\Debug\GUI.CustomerManagement.resources
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\obj\Debug\GUI.DressManagement.resources
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\obj\Debug\GUI.Home.resources
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\obj\Debug\GUI.Main.resources
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\obj\Debug\GUI.Payment.resources
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\obj\Debug\GUI.Rent.resources
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\obj\Debug\GUI.SignIn.resources
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\obj\Debug\GUI.exe
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\obj\Debug\GUI.pdb
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\obj\Debug\GUI.EmployeeManagement.resources
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\GUI\obj\Debug\GUI.AdminMain.resources

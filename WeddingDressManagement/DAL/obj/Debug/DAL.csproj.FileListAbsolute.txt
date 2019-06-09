@@ -1,0 +1,27 @@
+C:\Users\admimn\Desktop\WeddingDressManagement\DAL\bin\Debug\DAL.dll
+C:\Users\admimn\Desktop\WeddingDressManagement\DAL\bin\Debug\DAL.pdb
+C:\Users\admimn\Desktop\WeddingDressManagement\DAL\bin\Debug\DTO.dll
+C:\Users\admimn\Desktop\WeddingDressManagement\DAL\bin\Debug\DTO.pdb
+C:\Users\admimn\Desktop\WeddingDressManagement\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\admimn\Desktop\WeddingDressManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\admimn\Desktop\WeddingDressManagement\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\admimn\Desktop\WeddingDressManagement\DAL\obj\Debug\DAL.dll
+C:\Users\admimn\Desktop\WeddingDressManagement\DAL\obj\Debug\DAL.pdb
+D:\STUDY\PROJECT\WeddingDressManagement\DAL\bin\Debug\DAL.dll
+D:\STUDY\PROJECT\WeddingDressManagement\DAL\bin\Debug\DAL.pdb
+D:\STUDY\PROJECT\WeddingDressManagement\DAL\bin\Debug\DTO.dll
+D:\STUDY\PROJECT\WeddingDressManagement\DAL\bin\Debug\DTO.pdb
+D:\STUDY\PROJECT\WeddingDressManagement\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\STUDY\PROJECT\WeddingDressManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\STUDY\PROJECT\WeddingDressManagement\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\STUDY\PROJECT\WeddingDressManagement\DAL\obj\Debug\DAL.dll
+D:\STUDY\PROJECT\WeddingDressManagement\DAL\obj\Debug\DAL.pdb
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\DAL\bin\Debug\DAL.dll
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\DAL\bin\Debug\DAL.pdb
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\DAL\bin\Debug\DTO.dll
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\DAL\bin\Debug\DTO.pdb
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\DAL\obj\Debug\DAL.dll
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\DAL\obj\Debug\DAL.pdb

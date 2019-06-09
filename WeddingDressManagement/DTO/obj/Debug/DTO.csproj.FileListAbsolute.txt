@@ -1,0 +1,18 @@
+C:\Users\admimn\Desktop\WeddingDressManagement\DTO\bin\Debug\DTO.dll
+C:\Users\admimn\Desktop\WeddingDressManagement\DTO\bin\Debug\DTO.pdb
+C:\Users\admimn\Desktop\WeddingDressManagement\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\admimn\Desktop\WeddingDressManagement\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\admimn\Desktop\WeddingDressManagement\DTO\obj\Debug\DTO.dll
+C:\Users\admimn\Desktop\WeddingDressManagement\DTO\obj\Debug\DTO.pdb
+D:\STUDY\PROJECT\WeddingDressManagement\DTO\bin\Debug\DTO.dll
+D:\STUDY\PROJECT\WeddingDressManagement\DTO\bin\Debug\DTO.pdb
+D:\STUDY\PROJECT\WeddingDressManagement\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\STUDY\PROJECT\WeddingDressManagement\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\STUDY\PROJECT\WeddingDressManagement\DTO\obj\Debug\DTO.dll
+D:\STUDY\PROJECT\WeddingDressManagement\DTO\obj\Debug\DTO.pdb
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\DTO\bin\Debug\DTO.dll
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\DTO\bin\Debug\DTO.pdb
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\DTO\obj\Debug\DTO.dll
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\DTO\obj\Debug\DTO.pdb

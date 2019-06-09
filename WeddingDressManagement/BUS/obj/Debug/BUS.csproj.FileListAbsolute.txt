@@ -1,0 +1,33 @@
+C:\Users\admimn\Desktop\WeddingDressManagement\BUS\bin\Debug\BUS.dll
+C:\Users\admimn\Desktop\WeddingDressManagement\BUS\bin\Debug\BUS.pdb
+C:\Users\admimn\Desktop\WeddingDressManagement\BUS\bin\Debug\DAL.dll
+C:\Users\admimn\Desktop\WeddingDressManagement\BUS\bin\Debug\DTO.dll
+C:\Users\admimn\Desktop\WeddingDressManagement\BUS\bin\Debug\DAL.pdb
+C:\Users\admimn\Desktop\WeddingDressManagement\BUS\bin\Debug\DTO.pdb
+C:\Users\admimn\Desktop\WeddingDressManagement\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\admimn\Desktop\WeddingDressManagement\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\admimn\Desktop\WeddingDressManagement\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\admimn\Desktop\WeddingDressManagement\BUS\obj\Debug\BUS.dll
+C:\Users\admimn\Desktop\WeddingDressManagement\BUS\obj\Debug\BUS.pdb
+D:\STUDY\PROJECT\WeddingDressManagement\BUS\bin\Debug\BUS.dll
+D:\STUDY\PROJECT\WeddingDressManagement\BUS\bin\Debug\BUS.pdb
+D:\STUDY\PROJECT\WeddingDressManagement\BUS\bin\Debug\DAL.dll
+D:\STUDY\PROJECT\WeddingDressManagement\BUS\bin\Debug\DTO.dll
+D:\STUDY\PROJECT\WeddingDressManagement\BUS\bin\Debug\DAL.pdb
+D:\STUDY\PROJECT\WeddingDressManagement\BUS\bin\Debug\DTO.pdb
+D:\STUDY\PROJECT\WeddingDressManagement\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\STUDY\PROJECT\WeddingDressManagement\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\STUDY\PROJECT\WeddingDressManagement\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\STUDY\PROJECT\WeddingDressManagement\BUS\obj\Debug\BUS.dll
+D:\STUDY\PROJECT\WeddingDressManagement\BUS\obj\Debug\BUS.pdb
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\BUS\bin\Debug\BUS.dll
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\BUS\bin\Debug\BUS.pdb
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\BUS\bin\Debug\DAL.dll
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\BUS\bin\Debug\DTO.dll
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\BUS\bin\Debug\DAL.pdb
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\BUS\bin\Debug\DTO.pdb
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\BUS\obj\Debug\BUS.dll
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\BUS\obj\Debug\BUS.pdb
