@@ -63,6 +63,12 @@ namespace DTO
 
         public DressDTO() { }
 
+        public DressDTO(int DrID, string DrName)
+        {
+            this.DressID = DrID;
+            this.DressName = DrName;
+        }
+
         public DressDTO(string DrName, string DrDesc, int DrPrice, int DrID)
         {
             this.DressID = DrID;

@@ -36,7 +36,7 @@ create table customer
 create table dress
 (
 	DressID INT IDENTITY(1,1) NOT NULL,
-	DressName nvarchar(50) NOT NULL,
+	DressName nvarchar(50) unique NOT NULL,
 	DressDecription nvarchar(200),
 	Price int  NOT NULL,
 	Primary key (DressID)
@@ -120,7 +120,14 @@ END
  select * from employee
  select * from dress
  select * from Stock
+ select * from OrderLine
 
 
 Insert into employee values ('An','12345','Work','Employee')
 Insert into employee values ('Ha','12345','Work','Admin')
+
+select dress.DressID, dress.DressName, dress.DressDecription, dress.Price, Stock.DressQuant from Stock join dress on Stock.DressID = dress.DressID where dress.DressName like '%a%'
+
+Update dress set DressName = 'Ha', DressDecription = 'xau', Price = '20000' where DressID = '3'
+
+update Stock set DressQuant = DressQuant - 1 where DressID = '4'

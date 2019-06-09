@@ -8,7 +8,6 @@ namespace DTO
 {
     public class OrdLineDTO
     {
-        private int _OrdLineID;
         private int _OrdID;
         private int _DressID;
         private int _Quantity;

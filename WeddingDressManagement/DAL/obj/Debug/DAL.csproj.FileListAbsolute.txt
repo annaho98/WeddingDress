@@ -25,3 +25,12 @@ E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\DAL\obj\Debu
 E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\DAL\obj\Debug\DAL.csproj.CopyComplete
 E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\DAL\obj\Debug\DAL.dll
 E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\DAL\obj\Debug\DAL.pdb
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\DAL\bin\Debug\DAL.dll
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\DAL\bin\Debug\DAL.pdb
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\DAL\bin\Debug\DTO.dll
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\DAL\bin\Debug\DTO.pdb
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\DAL\obj\Debug\DAL.dll
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\DAL\obj\Debug\DAL.pdb

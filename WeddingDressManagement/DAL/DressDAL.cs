@@ -24,20 +24,33 @@ namespace DAL
             return dtDress;
         }
 
-        public void UpdateDress(DressDTO dress)
+        public bool UpdateDress(DressDTO dress)
         {
-            con.Open();
-            string SQL = string.Format("Update dress set DressName = {0}, DressDecription = {1}, DressPrice = {2} where DressID = {3})",
-                 dress.DressName, dress.DressDecription, dress.DressPrice, dress.DressID);
-            SqlCommand cmd = new SqlCommand(SQL, con);
-            con.Close();
+            try
+            {
+                con.Open();
+                string SQL = string.Format("Update dress set DressName = '{0}', DressDecription = '{1}', Price = '{2}' where DressID = '{3}')",
+                     dress.DressName, dress.DressDecription, dress.DressPrice, dress.DressID);
+                SqlCommand cmd = new SqlCommand(SQL, con);
+                if (cmd.ExecuteNonQuery() > 0)
+                    return true;
+            }
+            catch (Exception e)
+            { }
+
+            finally
+            {
+                con.Close();
+            }
+
+            return false;
         }
 
         public DataTable ShowAllDress()
         {
             DataTable dtDress = new DataTable();
             con.Open();
-            string SQL = string.Format("select dress.DressName, dress.DressDecription, dress.Price, Stock.DressQuant from dress join Stock on dress.DressID = Stock.DressID;");
+            string SQL = string.Format("select dress.DressID, dress.DressName, dress.DressDecription, dress.Price, Stock.DressQuant from dress join Stock on dress.DressID = Stock.DressID;");
             SqlCommand cmd = new SqlCommand(SQL, con);
             SqlDataAdapter adt = new SqlDataAdapter(cmd);
             adt.Fill(dtDress);

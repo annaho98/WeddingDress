@@ -56,16 +56,27 @@ namespace GUI
 
         private void btnUpdateDress_Click(object sender, EventArgs e)
         {
-            if (txtDressName.Text == "" || txtPriceDress.Text == "")
-            {
-                MessageBox.Show("Please enter value");
+            if (txtDressName.Text != "" && txtPriceDress.Text != "" && txtDressDesc.Text != "" )
+            { 
+                int DressID = Convert.ToInt32(txtDressID.Text);
+                string DressName = txtDressName.Text;
+                string DressDesc = txtDressDesc.Text;
+                int Price = Convert.ToInt32(txtPriceDress.Text);
+
+                DressDTO dressDTO = new DressDTO(DressName, DressDesc, Price, DressID);
+
+                if (dressBUS.UpdateDress(dressDTO))
+                {
+                    MessageBox.Show("Editing success");
+                    DressManagement_Load(sender, e);
+                }
+                else
+                    MessageBox.Show("Editing fail");
             }
             else
             {
-                DressDTO dressDTO = new DressDTO(txtDressName.Text, txtDressDesc.Text, Convert.ToInt32(txtPriceDress.Text), Convert.ToInt32(txtDressID.Text));
-                dressBUS.UpdateDress(dressDTO);
+                MessageBox.Show("Please fill required data");
             }
-            DressManagement_Load(sender,e);
         }
 
         private void GridViewDress_CellMouseDoubleClick(object sender, DataGridViewCellMouseEventArgs e)
@@ -88,7 +99,7 @@ namespace GUI
         private void btnSearchDress_Click(object sender, EventArgs e)
         {
             DataTable tblDress = new DataTable();
-            tblDress = dressBUS.Display("Select * from dress where DressName like +'%" + txtSearchDress.Text + "%'");
+            tblDress = dressBUS.Display("select dress.DressID, dress.DressName, dress.DressDecription, dress.Price, Stock.DressQuant from Stock join dress on Stock.DressID = dress.DressID where dress.DressName like '%" + txtSearchDress.Text + "%'");
             GridViewDress.DataSource = tblDress;
         }
     }

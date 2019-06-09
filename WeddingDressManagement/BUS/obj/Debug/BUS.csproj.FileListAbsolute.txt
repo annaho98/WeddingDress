@@ -31,3 +31,14 @@ E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\BUS\obj\Debu
 E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\BUS\obj\Debug\BUS.csproj.CopyComplete
 E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\BUS\obj\Debug\BUS.dll
 E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDressManagement\BUS\obj\Debug\BUS.pdb
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\BUS\bin\Debug\BUS.dll
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\BUS\bin\Debug\BUS.pdb
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\BUS\bin\Debug\DAL.dll
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\BUS\bin\Debug\DTO.dll
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\BUS\bin\Debug\DAL.pdb
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\BUS\bin\Debug\DTO.pdb
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\BUS\obj\Debug\BUS.dll
+E:\chuyên ngành\mô hình hóa dữ liệu\WeddingDress\WeddingDressManagement\BUS\obj\Debug\BUS.pdb

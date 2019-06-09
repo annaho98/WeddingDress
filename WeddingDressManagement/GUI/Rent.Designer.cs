@@ -35,14 +35,14 @@
             this.label4 = new System.Windows.Forms.Label();
             this.cbxDressName = new System.Windows.Forms.ComboBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
+            this.rentQuant = new System.Windows.Forms.NumericUpDown();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.btnAddOrder = new System.Windows.Forms.Button();
             this.btnUpdateOrder = new System.Windows.Forms.Button();
             this.btnDeleteOrder = new System.Windows.Forms.Button();
             this.btnBack = new System.Windows.Forms.Button();
             this.btnOkOrder = new System.Windows.Forms.Button();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.rentQuant)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -96,6 +96,7 @@
             this.cbxDressName.Name = "cbxDressName";
             this.cbxDressName.Size = new System.Drawing.Size(188, 21);
             this.cbxDressName.TabIndex = 8;
+            this.cbxDressName.MouseClick += new System.Windows.Forms.MouseEventHandler(this.cbxDressName_MouseClick);
             // 
             // label3
             // 
@@ -106,12 +107,17 @@
             this.label3.TabIndex = 9;
             this.label3.Text = "Quantity";
             // 
-            // numericUpDown1
+            // rentQuant
             // 
-            this.numericUpDown1.Location = new System.Drawing.Point(450, 113);
-            this.numericUpDown1.Name = "numericUpDown1";
-            this.numericUpDown1.Size = new System.Drawing.Size(187, 20);
-            this.numericUpDown1.TabIndex = 10;
+            this.rentQuant.Location = new System.Drawing.Point(450, 113);
+            this.rentQuant.Name = "rentQuant";
+            this.rentQuant.Size = new System.Drawing.Size(187, 20);
+            this.rentQuant.TabIndex = 10;
+            this.rentQuant.Value = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
             // 
             // dataGridView1
             // 
@@ -182,7 +188,7 @@
             this.Controls.Add(this.btnUpdateOrder);
             this.Controls.Add(this.btnAddOrder);
             this.Controls.Add(this.dataGridView1);
-            this.Controls.Add(this.numericUpDown1);
+            this.Controls.Add(this.rentQuant);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.cbxDressName);
             this.Controls.Add(this.label4);
@@ -192,7 +198,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Rent";
             this.Text = "Rent";
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.rentQuant)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -208,7 +214,7 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.ComboBox cbxDressName;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.NumericUpDown numericUpDown1;
+        private System.Windows.Forms.NumericUpDown rentQuant;
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Button btnAddOrder;
         private System.Windows.Forms.Button btnUpdateOrder;

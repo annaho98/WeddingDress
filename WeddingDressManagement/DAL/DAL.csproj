@@ -45,6 +45,7 @@
     <Compile Include="DBconnection.cs" />
     <Compile Include="DressDAL.cs" />
     <Compile Include="EmpDAL.cs" />
+    <Compile Include="OrderLineDAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StockDAL.cs" />
   </ItemGroup>

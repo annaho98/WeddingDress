@@ -17,9 +17,9 @@ namespace BUS
             return dal.InsertDress(dress);
         }
 
-        public void UpdateDress(DressDTO dress)
+        public bool UpdateDress(DressDTO dress)
         {
-            dal.UpdateDress(dress);
+            return dal.UpdateDress(dress);
         }
 
         public DataTable ShowAllDress()
