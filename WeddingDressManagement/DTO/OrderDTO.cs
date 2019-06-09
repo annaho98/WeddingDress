@@ -11,7 +11,7 @@ namespace DTO
         private int _OrdID;
         private int _OrdCusID;
         private int _OrdTotal;
-        private string _OrdEmpID;
+        private int _OrdEmpID;
         private DateTime _OrdDate;
 
         public int OrdID
@@ -50,7 +50,7 @@ namespace DTO
             }
         }
 
-        public string OrdEmpID
+        public int OrdEmpID
         {
             get
             {
@@ -75,5 +75,11 @@ namespace DTO
         }
 
         public OrderDTO() { }
+
+        public OrderDTO( int eID, int cusID)
+        {
+            this.OrdEmpID = eID;
+            this.OrdCusID = cusID;
+        }
     }
 }

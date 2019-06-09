@@ -79,5 +79,18 @@ namespace DAL
 
             return null;
         }
+        
+        public int GetDressID(string dressName)
+        {
+            int dressID;
+            con.Open();
+            string SQL = string.Format("select DressID from dress where DressName = '{0}'", dressName);
+            SqlCommand cmd = new SqlCommand(SQL, con);
+            SqlDataReader rd = cmd.ExecuteReader();
+            rd.Read();
+            dressID = Convert.ToInt32(rd["DressID"].ToString());
+            con.Close();
+            return dressID;
+        }
     }
 }

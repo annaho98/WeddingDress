@@ -31,5 +31,10 @@ namespace BUS
         {
             return dal.Display(sql);
         }
+
+        public int GetDressID(string dressName)
+        {
+            return dal.GetDressID(dressName);
+        }
     }
 }

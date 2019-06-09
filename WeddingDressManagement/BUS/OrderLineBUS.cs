@@ -16,20 +16,25 @@ namespace BUS
         {
             return dal.GetStockQuant(dressID);
         }
-
-        public int GetDressID(string dressName)
-        {
-            return dal.GetDressID(dressName);
-        }
-
+                
         public void ReduceStockQuant(int dressID)
         {
             dal.ReduceStockQuant(dressID);
         }
 
-        public DataTable InsertOrderLine(DressDTO dress)
+        public DataTable InsertOrderLine(int dressID, int dressQuant)
         {
-            return dal.InsertOrderLine(dress);
+            return dal.InsertOrderLine(dressID,dressQuant);
+        }
+
+        public void UpdateOrderLine(int dressID, int dressQuant)
+        {
+            dal.UpdateOrderLine(dressID, dressQuant);
+        }
+
+        public DataTable Display(string sql)
+        {
+            return dal.Display(sql);
         }
     }
 }

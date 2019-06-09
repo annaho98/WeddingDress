@@ -19,7 +19,9 @@ namespace GUI
     public partial class Rent : Form
     {
         Thread th;
-        OrderLineBUS bus;
+        OrderLineBUS OrdLine_BUS;
+        OrderBUS orderBUS;
+        DressBUS dressBUS;
         public Rent()
         {
             InitializeComponent();
@@ -27,22 +29,32 @@ namespace GUI
 
         private void btnAddOrder_Click(object sender, EventArgs e)
         {
-            int dressID = bus.GetDressID(cbxDressName.Text);
-            if (rentQuant.Value < bus.GetStockQuant(dressID))
+            int dressID = dressBUS.GetDressID(cbxDressName.Text);
+            if (rentQuant.Value < OrdLine_BUS.GetStockQuant(dressID))
             {
                 MessageBox.Show("Not enough dress");
             }
             else
             {
+                int dressQuant = Convert.ToInt32(rentQuant.Value);
                 DressDTO dressDTO = new DressDTO(dressID, cbxDressName.Text);
-                bus.ReduceStockQuant(dressID);
-                bus.InsertOrderLine(dressDTO);
+                int eID = Convert.ToInt32(txtEmpID.Text);
+                int cusID = Convert.ToInt32(txtCID.Text);
+                OrderDTO orderDTO = new OrderDTO(eID, cusID);
+
+                OrdLine_BUS.ReduceStockQuant(dressID);
+
+                orderBUS.InsertOrder(orderDTO);
+
+                OrdLine_BUS.InsertOrderLine(dressID,dressQuant);
             }
         }
 
         private void btnUpdateOrder_Click(object sender, EventArgs e)
         {
-
+            int dressID = dressBUS.GetDressID(cbxDressName.Text);
+            int quant = Convert.ToInt32(rentQuant.Value);
+            OrdLine_BUS.UpdateOrderLine(dressID, quant);
         }
 
         private void btnDeleteOrder_Click(object sender, EventArgs e)
@@ -84,6 +96,26 @@ namespace GUI
                         cbxDressName.Items.Add(DName);
                 }
                 connect.Close();
+            }
+        }
+
+        private void Rent_Load(object sender, EventArgs e)
+        {
+            DataTable tblOrdLine = new DataTable();
+            tblOrdLine = OrdLine_BUS.Display(" select OrderLine.OrderID, dress.DressName, dress.Price," +
+                                            " OrderLine.Quantity, OrderLine.[Sum] from OrderLine " +
+                                            "join dress on OrderLine.DressID = dress.DressID");
+
+            GridViewOrdLine.DataSource = tblOrdLine;
+            GridViewOrdLine.AllowUserToAddRows = false;
+            if (tblOrdLine.Rows.Count == 0)
+            {
+                MessageBox.Show("Don't have any employees in the table!");
+            }
+            else
+            {
+                cbxDressName.SelectedItem = GridViewOrdLine.CurrentRow.Cells["EmployeeID"].Value.ToString();
+                
             }
         }
     }
